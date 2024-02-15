@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 📝 I regularly write articles on [www.medium.com/@yashkhare._](www.medium.com/@yashkhare._)
+- 📝 I regularly write articles on [Medium](https://www.medium.com/@yashkhare._)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
