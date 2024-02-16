@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imyashkhare" target="blank"><img src="https://img.shields.io/twitter/follow/imyashkhare?logo=twitter&style=for-the-badge" alt="imyashkhare" /></a> </p>
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently learning **MLOPs and Data Engineering Fundamentals**
 
 - 📝 I regularly write articles on [Medium](https://www.medium.com/@yashkhare._)
 
